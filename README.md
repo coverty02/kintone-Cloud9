@@ -15,3 +15,5 @@ git push -u origin master
   
 …or import code from another repository  
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.  
+  
+SSHの場合:git@github.com:coverty02/kintone-Cloud9.git  
